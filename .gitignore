@@ -1,0 +1,31 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target
+
+# Eclipse specific settings
+.classpath
+.project
+.settings
+
+# IntelliJ Idea settings
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Misc
+*.DS_Store
+*.swp
+
+# Error logs
+*.log
+
+# Rsync files for local
+rsync-data
+
+*.png
